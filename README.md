@@ -2,27 +2,23 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+🚀+|+Cloud+Native+☁️+|+AI+Tinkerer+🧠" alt="Typing SVG" />
 </p>
 
----
-
 <p align="center">
   🟦🟪🟩 <strong>✨ Turning Complex Problems Into Elegant Solutions</strong> 🟨🟥🟧  
 </p>
 
 <p align="center">
   💬 I'm a passionate and creative software engineer who bridges the gap between design and technology.  
-  From frontend finesse to backend brilliance, I love architecting systems that scale and perform.  
+  From frontend finesse to backend brilliance, I love architecting systems that scale and perform.
 </p>
 
 <p align="center">
   🎓 <strong>Master’s in Computer Science @ University of Central Florida</strong>  
-  <br>📍 Based in Orlando | 🧠 Thinking in APIs | ☕ Powered by Code + Coffee  
+  <br>📍 Based in Orlando | 🧠 Thinking in APIs | ☕ Powered by Code + Coffee
 </p>
 
 <p align="center">
   🔍 <em>Actively seeking full-time roles in software development — let's build the future together.</em>  
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkt2001&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
