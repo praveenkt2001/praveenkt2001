@@ -1,19 +1,25 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+%F0%9F%9A%80;Cloud+%26+AI+Explorer+%E2%98%81%EF%B8%8F+%7C+UCF+Grad+%F0%9F%8E%93" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Crafting+Clean+Code+%26+Smart+Systems;Full+Stack+Engineer+%F0%9F%9A%80+%7C+Cloud+Native+%E2%98%81%EF%B8%8F+%7C+AI+Tinkerer+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
+
+<h2 align="center">✨ Turning Complex Problems Into Elegant Solutions</h2>
+
+<p align="center">
+  I'm a passionate and creative software engineer who bridges the gap between design and technology. From frontend finesse to backend brilliance, I love architecting systems that scale and perform.
+</p>
+
+<p align="center">
+  🎓 <b>Master’s in Computer Science @ University of Central Florida</b>  <br>
+  📍 Based in Orlando | 🧠 Thinking in APIs | ☕ Powered by Code + Coffee
+</p>
+
+<p align="center">
+  🔍 Actively seeking full-time roles in software development — let's build the future together.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkt2001&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 **Graduate Assistant** @ University of Central Florida (GPA: 3.889)  
-- 🔧 Full Stack Developer with focus on Cloud-Native Apps  
-- 💡 Loves solving real-world problems with elegant code  
-- 🔍 Actively seeking Full-Time SWE Roles (Frontend | Backend | Full Stack)  
 
 ---
 
@@ -45,6 +51,18 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 🧩 Highlight Projects
+
+- 🔹 [Visualising-Stocks-using-Dash](https://github.com/praveenkt2001/Visualising-Stocks-using-Dash-) – Real-time dashboards for live stock data using Python and Dash  
+- 🔹 [CPU-Utilization-Prediction](https://github.com/praveenkt2001/CPU-Utilization-Prediction) – Predictive modeling using ML + JS stack  
+- 🔹 [portfolio-website](https://github.com/praveenkt2001/portfolio-website) – Sleek portfolio website built with HTML, CSS, JS  
+- 🔹 [MedWise App (CVS Health Internship Project)](https://github.com/praveenkt2001/medwise) – Health data visualization and ML insights using PySpark and React  
+- 🔹 [Flight Price Prediction App](https://github.com/praveenkt2001/flight-price-prediction) – Flask ML app for estimating flight prices  
+- 🔹 [Spotify Song Popularity Predictor](https://github.com/praveenkt2001/spotify-hit-predictor) – Predicts Spotify hits with ML  
+- 🔹 [College Event Manager](https://github.com/praveenkt2001/event-management) – Full-stack app using Spring Boot and React
 
 ---
 
