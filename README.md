@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+🚀+|+Cloud+Native+☁️+|+AI+Tinkerer+🧠" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋,+I'm+Praveen+Kumar+Thabjul;Software+Engineer" alt="Typing SVG" />
 
 ---
 
