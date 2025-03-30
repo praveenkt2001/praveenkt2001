@@ -1,9 +1,9 @@
-<div align="center" style="border: 2px dashed #00f7ff; border-radius: 12px; padding: 20px; background: #0d1117; color: #fff;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+%F0%9F%9A%80+%7C+Cloud+Native+%E2%98%81%EF%B8%8F+%7C+AI+Tinkerer+%F0%9F%A4%96" alt="Typing SVG" />
-  
+<div align="center" style="border: 2px dashed #00f7ff; border-radius: 12px; padding: 20px; background-color: #0d1117; color: #ffffff;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+🚀+|+Cloud+Native+☁️+|+AI+Tinkerer+🧠" alt="Typing SVG" />
+
   <h2 style="color: #00f7ff; margin-top: 20px;">✨ Turning Complex Problems Into Elegant Solutions</h2>
 
-  <p style="font-size: 16px; max-width: 700px;">
+  <p style="font-size: 16px; max-width: 750px;">
     I'm a passionate and creative software engineer who bridges the gap between design and technology.<br>
     From frontend finesse to backend brilliance, I love architecting systems that scale and perform.
   </p>
