@@ -1,5 +1,5 @@
 <div align="center" style="border: 2px dashed #00f7ff; border-radius: 12px; padding: 20px; background-color: #0d1117; color: #ffffff;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+🚀+|+Cloud+Native+☁️+|+AI+Tinkerer+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Software+Engineer" alt="Typing SVG" />
 
   <h2 style="color: #00f7ff; margin-top: 20px;">✨ Turning Complex Problems Into Elegant Solutions</h2>
 
