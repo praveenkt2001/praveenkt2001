@@ -1,21 +1,22 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hey+there+👋,+I'm+Praveen+Kumar+Thabjul;Crafting+Clean+Code+%26+Smart+Systems;Full+Stack+Engineer+%F0%9F%9A%80+%7C+Cloud+Native+%E2%98%81%EF%B8%8F+%7C+AI+Tinkerer+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+<div align="center" style="border: 2px dashed #00f7ff; border-radius: 12px; padding: 20px; background: #0d1117; color: #fff;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hey+there+%F0%9F%91%8B,+I'm+Praveen+Kumar+Thabjul;Full+Stack+Engineer+%F0%9F%9A%80+%7C+Cloud+Native+%E2%98%81%EF%B8%8F+%7C+AI+Tinkerer+%F0%9F%A4%96" alt="Typing SVG" />
+  
+  <h2 style="color: #00f7ff; margin-top: 20px;">✨ Turning Complex Problems Into Elegant Solutions</h2>
 
-<h2 align="center">✨ Turning Complex Problems Into Elegant Solutions</h2>
+  <p style="font-size: 16px; max-width: 700px;">
+    I'm a passionate and creative software engineer who bridges the gap between design and technology.<br>
+    From frontend finesse to backend brilliance, I love architecting systems that scale and perform.
+  </p>
 
-<p align="center">
-  I'm a passionate and creative software engineer who bridges the gap between design and technology. From frontend finesse to backend brilliance, I love architecting systems that scale and perform.
-</p>
+  <p style="font-size: 15px;">
+    🎓 <strong>Master’s in Computer Science @ University of Central Florida</strong><br>
+    📍 Based in Orlando | 🧠 Thinking in APIs | ☕ Powered by Code + Coffee
+  </p>
 
-<p align="center">
-  🎓 <b>Master’s in Computer Science @ University of Central Florida</b>  <br>
-  📍 Based in Orlando | 🧠 Thinking in APIs | ☕ Powered by Code + Coffee
-</p>
-
-<p align="center">
-  🔍 Actively seeking full-time roles in software development — let's build the future together.
-</p>
+  <p style="font-size: 14px;">
+    🔍 <em>Actively seeking full-time roles in software development — let's build the future together.</em>
+  </p>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=praveenkt2001&label=Profile+Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -59,10 +60,6 @@
 - 🔹 [Visualising-Stocks-using-Dash](https://github.com/praveenkt2001/Visualising-Stocks-using-Dash-) – Real-time dashboards for live stock data using Python and Dash  
 - 🔹 [CPU-Utilization-Prediction](https://github.com/praveenkt2001/CPU-Utilization-Prediction) – Predictive modeling using ML + JS stack  
 - 🔹 [portfolio-website](https://github.com/praveenkt2001/portfolio-website) – Sleek portfolio website built with HTML, CSS, JS  
-- 🔹 [MedWise App (CVS Health Internship Project)](https://github.com/praveenkt2001/medwise) – Health data visualization and ML insights using PySpark and React  
-- 🔹 [Flight Price Prediction App](https://github.com/praveenkt2001/flight-price-prediction) – Flask ML app for estimating flight prices  
-- 🔹 [Spotify Song Popularity Predictor](https://github.com/praveenkt2001/spotify-hit-predictor) – Predicts Spotify hits with ML  
-- 🔹 [College Event Manager](https://github.com/praveenkt2001/event-management) – Full-stack app using Spring Boot and React
 
 ---
 
